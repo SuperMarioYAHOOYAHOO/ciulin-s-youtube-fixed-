@@ -39,7 +39,9 @@ window[NAMESPACE_MODULE_CIULINATIONS_EN] = {};
             secondsremain: "seconds remaining before you can post",
             loading: "Loading comment...",
             allcomments: "All Comments",
-            topcomments: "Top Comments"
+            topcomments: "Top Comments",
+            respond: "Respond to this video...",
+            reply: "Reply"
         },
         tooltip: {
             ilikethis: "I like this",

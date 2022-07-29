@@ -51,7 +51,7 @@
 
     const localizeString = (varr) => {
         if(!varr) return "";
-        let lang = document.documentElement.getAttribute("lang");
+        let lang = "mc";//document.documentElement.getAttribute("lang");
         if(!lang || lang.length !== 2) return "";
         varr = varr.split(".");
 
