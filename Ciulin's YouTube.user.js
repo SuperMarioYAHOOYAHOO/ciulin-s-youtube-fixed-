@@ -16,6 +16,7 @@
 // @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/english.js?v=1
 // @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/dansk.js?v=1
 // @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/polski.js?v=1
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/main/translations/enchantingTable.js?v=1
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM.getValue
@@ -94,7 +95,8 @@
             "gl": "Galego",
             "hr": "Hrvatski",
             "hu": "Magyar",
-            "pl": "Polski"
+            "pl": "Polski",
+            "mc": "Enchantment Table"
         }
     };
     document.ciulinYT.load = {
