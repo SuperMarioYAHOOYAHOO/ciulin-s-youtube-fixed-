@@ -4,19 +4,18 @@
 // @version      0.5.35
 // @description  Broadcast Yourself
 // @author       CiulinUwU
-// @updateURL    https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/Ciulin's%20YouTube.user.js
-// @downloadURL  https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/Ciulin's%20YouTube.user.js
+// @updateURL    https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/Ciulin's%20YouTube.user.js
+// @downloadURL  https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/Ciulin's%20YouTube.user.js
 // @match        https://www.youtube.com/*
 // @exclude      https://www.youtube.com/tv
 // @exclude      https://www.youtube.com/signin_prompt*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/modules/yabai_component.js
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/modules/open_uix_components.js
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/modules/translations.js?v=1
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/english.js?v=1
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/dansk.js?v=1
-// @require      https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/translations/polski.js?v=1
-// @require      https://github.com/aubymori/ciulin-s-youtube/raw/main/translations/enchantingTable.js?v=1
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/modules/yabai_component.js
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/modules/open_uix_components.js
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/modules/translations.js
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/translations/english.js
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/translations/dansk.js
+// @require      https://github.com/aubymori/ciulin-s-youtube/raw/refs/heads/main/translations/polski.js
 // @grant unsafeWindow
 // @grant GM_addStyle
 // @grant GM.getValue
